@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'OS2mo'
+copyright = '2023, Magenta ApS'
+author = 'Magenta ApS'
 
 release = '0.1'
 version = '0.1.0'
